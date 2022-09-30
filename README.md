@@ -6,7 +6,7 @@ Time spent: **12** hours spent in total
 
 ## User Stories
 
-The following **required** functionality is completed:
+The following functionality is completed:
 
 - [x] User sees app icon in home screen and styled launch screen. (1pt)
 - [x] User can log in. (1pt)
@@ -23,5 +23,5 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://recordit.co/KEAfOgrWSa' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://recordit.co/KEAfOgrWSa.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
